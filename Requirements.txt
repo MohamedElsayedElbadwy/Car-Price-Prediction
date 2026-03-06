@@ -2,7 +2,6 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-learn==1.2.2
+scikit-learn
 joblib
 streamlit
-
