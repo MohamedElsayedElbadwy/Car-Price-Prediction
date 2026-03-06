@@ -1,4 +1,3 @@
-بناءً على الملفات اللي في الصورة الأخيرة، ده ملف الـ README المتظبط بالظبط على أسماء ملفاتك الحقيقية وبنفس الأسلوب الاحترافي:
 Car Price Prediction
 This project uses machine learning to predict the market price of vehicles based on their specifications. 
 It provides a data-driven approach for estimating car values accurately.
